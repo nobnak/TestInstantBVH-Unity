@@ -1,6 +1,3 @@
 [submodule "Assets/Packages/Recon"]
 	path = Assets/Packages/Recon
 	url = https://github.com/nobnak/Recon.git
-[submodule "Assets/Packages/Gist"]
-	path = Assets/Packages/Gist
-	url = https://github.com/nobnak/Gist.git
