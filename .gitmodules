@@ -1,3 +1,6 @@
 [submodule "Assets/Packages/Gist2"]
 	path = Assets/Packages/Gist2
 	url = https://github.com/nobnak/Gist2.git
+[submodule "Assets/Packages/SimpleBVH-Unity"]
+	path = Assets/Packages/SimpleBVH-Unity
+	url = https://github.com/nobnak/SimpleBVH-Unity.git
