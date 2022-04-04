@@ -1,3 +1,1 @@
-# Project repo. of [SimpleBVH](https://github.com/nobnak/SimpleBVH-Unity)
-
-
+# Project repo. of [InstantBVH](https://github.com/nobnak/SimpleBVH-Unity)
